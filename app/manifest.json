@@ -23,6 +23,8 @@
                 "styles/main.css"
             ],
             "js": [
+                "bower_components/jquery/jquery.min.js",
+                "bower_components/embedly-jquery/jquery.embedly.min.js",
                 "scripts/contentscript.js"
             ],
             "run_at": "document_end",
